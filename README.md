@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: virtual-network
-- platforms: java
+description: "Getting Started with Network - Manage Vpn Gateway V Net2 V Net Connection - in Java"
+urlFragment: network-java-manage-virtual-network-to-virtual-network-vpn-connection
 ---
 
 # Getting Started with Network - Manage Vpn Gateway V Net2 V Net Connection - in Java #
