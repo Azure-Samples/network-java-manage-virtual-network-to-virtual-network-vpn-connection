@@ -4,6 +4,7 @@ languages:
 - java
 products:
 - azure
+- azure-virtual-network
 description: "Azure Network sample for managing virtual network gateway."
 urlFragment: network-java-manage-virtual-network-to-virtual-network-vpn-connection
 ---
